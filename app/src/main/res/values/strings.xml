@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Sports</string>
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="my_sports">My Sports</string>
+
+    <string name="baseball">Baseball</string>
+    <string name="basketball">Basketball</string>
+    <string name="football">Football</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="account_fragment">Account Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="my_sports_fragment">My Sports Fragment</string>
+    <string name="baseball_fragment">Baseball Fragment</string>
+    <string name="basketball_fragment">Basketball Fragment</string>
+    <string name="football_fragment">Football Fragment</string>
+    <string name="settings">Settings</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
